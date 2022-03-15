@@ -32,31 +32,20 @@ Project created by <a href="https://github.com/zim-bot">DripsMemes</a> to make i
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zim-bot/madelinee)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zim-bot/madeline)
 
 
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ReinhardTuna/zim-bot?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ReinhardTuna/QUEEN-ANGELA-NEW-QR?v=1)
   
 ### The Hard Method
 ```js
-GET QR
-$ apt install git
-$ apt install nodejs --fix-missing
-$ git clone https://github.com/zim-bot/madelinee
-$ cd madelinee
-$ npm install @adiwajshing/baileys
-$ npm install chalk
-$ node Amalser.js
+
 ```
       
 ```js
-SETUP
-$ git clone https://github.com/zim-bot/madelinee
-$ cd madelinee
-$ npm i
-$ node Amal_ser.js
+
 ```
 
 ----
